@@ -1,0 +1,4 @@
+git init is used to establish a repository. Without this the version control and other advantages of git are not enabled.
+
+The staging area is the middle ground between the working directory and the commit. Meaning that documents can be placed here before they are commited.
+
