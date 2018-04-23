@@ -1,0 +1,18 @@
+Being able to see the difference in the files easily
+made the bug introduced by the typos identifiable
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+    - It would mean that we wouldn't repeat lines of code that we know don't work essentially removing repeated trial and error.
+
+ 
+Commits
+Commits save the code as we go and allow an easy way to compare changes and manage any errors that are introduced into the code
+
+The ability to commit across multiple files is very helpful for managing projects which reference different code segments, meaning that for more complex projects then consistency is maintained end the process is also more effecient.
+
+git log allows me to view all of the changes that have been committed for the file.  
+Git diff is allowing us to see the difference between two of these commits on a line by line basis.
+
+Version control provides an easy way to save previous code and provide reassurance that changes and experimentation aren't going to result in the loss of all our four code
+
+Adding color and tab auto complete to the bash shell definitely makes it more usable and enhances the experience.
