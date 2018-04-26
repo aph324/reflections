@@ -2,3 +2,11 @@ git init is used to establish a repository. Without this the version control and
 
 The staging area is the middle ground between the working directory and the commit. Meaning that documents can be placed here before they are commited.
 
+The staging area can be a good way of making sure each commit contains a single change as it provides a logical place to store the changes one by one
+
+Using branches is handy when we want to
+trial a new vslightly different version of the code.
+
+Diagrams of branches help to give an overview of the path that documents have taken and how they relate to one another.
+
+Merging branches together is a good way of working on seperate features at the same time without losing the working state of the code.
